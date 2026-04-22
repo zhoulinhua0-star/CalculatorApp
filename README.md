@@ -12,9 +12,3 @@ Whether you are clicking with a mouse or typing on a keyboard, this calculator d
 - **HTML5:** Semantic structure and accessibility.
 - **CSS3:** CSS Grid, Flexbox, custom variables, and transition animations.
 - **JavaScript (ES6+):** Object-Oriented Programming (OOP) approach using JavaScript Classes for clean, maintainable logic.
-- 
-📂 Project Structure
-IOS-style Calculator
-├── index.html      # The structural skeleton of the app
-├── style.css       # iOS styling, layout, and animations
-└── script.js       # The object-oriented calculator logic
